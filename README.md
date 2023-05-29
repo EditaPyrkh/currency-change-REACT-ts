@@ -2,7 +2,7 @@
 Currency converter (API from https://app.freecurrencyapi.com/ )
 * Displays entered value right away
 * Allows to switch between chosen currencies 
-* Cute design fetures: animated (rain emoji) background + flag icons 
+* Cute design features: animated (rain emoji) background + flag icons 
 
 ![currC](https://github.com/EditaPyrkh/currency-change-spa/assets/113599547/9391a2d7-97d6-43c0-a506-af7a98e4546d)
 
